@@ -4,7 +4,7 @@ var products = TAFFY([
     "price" : 99.99
   },
   { "item"  : 2,
-    "name"  : "3D TV",
+    "name"  : "Computer",
     "price" : 1799.99
   },
   { "item"  : 3,
