@@ -1,4 +1,4 @@
-var product_db = TAFFY([
+var products = TAFFY([
   { "item"  : 1,
     "name"  : "Blue Ray Player",
     "price" : 99.99
@@ -6,5 +6,9 @@ var product_db = TAFFY([
   { "item"  : 2,
     "name"  : "3D TV",
     "price" : 1799.99
+  },
+  { "item"  : 3,
+    "name"  : "Computer",
+    "price" : 450.99
   }
 ]);
