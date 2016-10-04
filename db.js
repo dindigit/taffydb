@@ -19,7 +19,7 @@ var houses = TAFFY([
     ],
     "lastedited": "2016-03-03 17:23:45",
     "ref": "DH5-Fin022",
-    "price": 110000,
+    "price": 165000,
     "originalprice": 225000,
     "frequency": "sale",
     "ptype": "Finca",
